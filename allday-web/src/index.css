@@ -1,0 +1,42 @@
+@import '@fontsource-variable/plus-jakarta-sans';
+
+/* Material Symbols (solo los íconos usados: ver scripts/subset-iconos.py) */
+@font-face { font-family: 'Material Symbols Outlined'; font-style: normal; font-weight: 100 700; font-display: block; src: url('./assets/material-symbols-subset.woff2') format('woff2'); }
+.material-symbols-outlined { font-family: 'Material Symbols Outlined'; font-weight: normal; font-style: normal; font-size: 24px; line-height: 1; letter-spacing: normal; text-transform: none; display: inline-block; white-space: nowrap; word-wrap: normal; direction: ltr; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-feature-settings: 'liga'; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body { background-color: #f9f9ff; color: #111c2d; }
+  body { font-family: 'Plus Jakarta Sans Variable', 'Plus Jakarta Sans', system-ui, sans-serif; -webkit-tap-highlight-color: transparent; }
+  .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24; vertical-align: middle; line-height: 1; user-select: none; }
+  .fill { font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 24; }
+  input[type=number]::-webkit-inner-spin-button { opacity: .4; }
+  :focus-visible { outline: 2px solid #7b2cbf; outline-offset: 2px; }
+}
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { scrollbar-width: none; }
+  .pb-safe { padding-bottom: env(safe-area-inset-bottom, 0px); }
+  .tabular { font-variant-numeric: tabular-nums; }
+}
+@layer components {
+  .campo { @apply w-full bg-surface-container-low rounded-xl px-space-md py-3 font-body-md text-body-md text-on-surface placeholder:text-outline outline-none border border-transparent focus:bg-surface-container-lowest focus:border-primary-container/40 focus:ring-2 focus:ring-primary-container/15 transition-all disabled:opacity-60; }
+  .etiqueta { @apply font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant; }
+  .btn-pri { @apply whitespace-nowrap inline-flex items-center justify-center gap-space-xs bg-primary-container hover:bg-primary text-on-primary font-label-lg text-label-lg px-space-lg py-3 rounded-xl shadow-sm transition-all disabled:opacity-50 disabled:pointer-events-none; }
+  .btn-sec { @apply whitespace-nowrap inline-flex items-center justify-center gap-space-xs bg-surface-container-low hover:bg-surface-container-high text-on-surface font-label-lg text-label-lg px-space-lg py-3 rounded-xl transition-all disabled:opacity-50 disabled:pointer-events-none; }
+  .btn-wa { @apply inline-flex items-center justify-center gap-space-xs bg-whatsapp hover:bg-whatsapp-dark text-white font-label-md text-label-md rounded-xl shadow-sm transition-all; }
+  .tarjeta { @apply bg-surface-container-lowest rounded-xl shadow-sm; }
+}
+
+/* Impresión del comprobante 80 mm: solo se imprime el ticket */
+@media print {
+  @page { size: 80mm auto; margin: 3mm; }
+  body * { visibility: hidden !important; }
+  #area-impresion, #area-impresion * { visibility: visible !important; }
+  #area-impresion { position: absolute; left: 0; top: 0; width: 74mm; }
+}
+#area-impresion { display: none; }
+@media print { #area-impresion { display: block; } }

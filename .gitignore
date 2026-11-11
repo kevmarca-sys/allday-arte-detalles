@@ -1,0 +1,20 @@
+# Dependencias y compilados
+node_modules/
+dist/
+target/
+*.zip
+# Secretos locales (nunca se suben)
+.env
+*.env
+!.env.example
+# Editores
+.idea/
+.vscode/
+.qodo/
+*.iml
+.github/modernize/
+# Material de trabajo que no es parte del sistema
+allday-web-v1/
+web2/
+crops/
+gen_entities.py

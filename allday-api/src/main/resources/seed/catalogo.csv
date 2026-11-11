@@ -1,0 +1,78 @@
+categoria;icono;producto;descripcion;unidad;precio;stock;stock_minimo;servicio;destacado;imagen
+Útiles escolares;note;Carpetas archivadoras de palanca;Varios colores y tamaños. Precio c/u.;c/u;3.50;19;5;0;0;carpetas-archivadoras-de-palanca.jpg
+Útiles escolares;note;Carpetas plásticas (fólder) A4;Con vincha o gancho. Precio c/u.;c/u;0.60;23;10;0;0;carpetas-plasticas-folder-a4.jpg
+Útiles escolares;note;Cuadernos universitarios;Cuadros y rayados. Precio 100 hojas, gama media.;100 hojas, gama media;1.50;21;5;0;1;cuadernos-universitarios.jpg
+Útiles escolares;note;Cuadernos de espiral;Varios tamaños. Precio c/u.;c/u;2.00;29;5;0;0;cuadernos-de-espiral.jpg
+Útiles escolares;note;Forros plásticos para cuadernos;Colores. Precio c/u.;c/u;0.25;17;10;0;0;forros-plasticos-para-cuadernos.jpg
+Útiles escolares;note;Cartulina de colores;Hojas sueltas y paquetes. Precio c/u (paquete x25 aprox. 0.50).;c/u (paquete x25 aprox. 0.50);0.05;18;10;0;0;cartulina-de-colores.jpg
+Útiles escolares;note;Cartulina fluorescente;Verde y rosado. Precio c/u.;c/u;0.15;48;10;0;0;cartulina-fluorescente.jpg
+Útiles escolares;note;Papel de regalo kraft en rollo;Empaque. Precio pliego.;pliego;0.30;20;10;0;0;papel-de-regalo-kraft-en-rollo.jpg
+Útiles escolares;note;Papel de regalo en pliego;Estampado. Precio pliego.;pliego;0.50;37;10;0;0;papel-de-regalo-en-pliego.jpg
+Útiles escolares;note;Lápices de colores;Caja de 12 o 24 (Pelikan y Crayola). Precio caja x12.;caja x12;2.50;27;5;0;1;lapices-de-colores.jpg
+Útiles escolares;note;Crayones;Crayola y otras marcas. Precio caja x12.;caja x12;1.50;10;5;0;0;crayones.jpg
+Útiles escolares;note;Marcadores de colores;Caja de 12 o más. Precio caja x12.;caja x12;2.50;3;5;0;0;marcadores-de-colores.jpg
+Útiles escolares;note;Plastilina;Pelikan y genéricas. Precio caja x12.;caja x12;1.25;15;5;0;0;plastilina.jpg
+Útiles escolares;note;Témperas y paletas de pintura;Acuarelas. Precio set.;set;2.00;10;5;0;0;temperas-y-paletas-de-pintura.jpg
+Útiles escolares;note;Tijeras escolares de colores;Punta redonda. Precio c/u.;c/u;1.00;11;5;0;0;tijeras-escolares-de-colores.jpg
+Útiles escolares;note;Foami (goma eva) en láminas;Colores y formas. Precio lámina.;lámina;0.40;41;10;0;0;foami-goma-eva-en-laminas.jpg
+Útiles escolares;note;Stickers de animales y letras;Láminas. Precio lámina.;lámina;0.75;40;10;0;0;stickers-de-animales-y-letras.jpg
+Útiles escolares;note;Stickers de emojis;Láminas. Precio lámina.;lámina;0.75;18;10;0;0;stickers-de-emojis.jpg
+Útiles escolares;note;Stickers luminosos;Láminas. Precio lámina.;lámina;1.00;16;5;0;0;stickers-luminosos.jpg
+Útiles escolares;note;Stickers 3D de espuma (foam);Láminas. Precio lámina.;lámina;1.25;11;5;0;1;stickers-3d-de-espuma-foam.jpg
+Útiles escolares;note;Notas adhesivas;Colores. Precio paquete.;paquete;1.00;26;5;0;0;notas-adhesivas.jpg
+Útiles escolares;note;Ojos locos (googly eyes);Paquete. Precio paquete.;paquete;0.75;41;10;0;0;ojos-locos-googly-eyes.jpg
+Útiles escolares;note;Pompones de colores;Paquete para manualidades. Precio paquete.;paquete;1.00;10;5;0;0;pompones-de-colores.jpg
+Útiles escolares;note;Palitos de madera para manualidades;Paquete. Precio paquete x50.;paquete x50;1.00;27;5;0;0;palitos-de-madera-para-manualidades.jpg
+Útiles escolares;note;Limpiapipas (chenilla);Colores. Precio paquete.;paquete;1.00;12;5;0;0;limpiapipas-chenilla.jpg
+Útiles escolares;note;Estuches escolares;Plástico y tela. Precio c/u.;c/u;3.50;16;5;0;0;estuches-escolares.jpg
+Útiles escolares;note;Set de manualidades con formas de goma;Kit (Nevdis u otra marca). Precio kit.;kit;3.00;29;5;0;0;set-de-manualidades-con-formas-de-goma.jpg
+Copias e impresiones;print;Impresión blanco y negro;Por página. Precio por página.;por página;0.05;0;0;1;0;impresion-blanco-y-negro.jpg
+Copias e impresiones;print;Impresión a color;Por página. Precio por página.;por página;0.25;0;0;1;1;impresion-a-color.jpg
+Copias e impresiones;print;Anillado y empastado;Por trabajo. Precio por trabajo.;por trabajo;1.50;0;0;1;0;anillado-y-empastado.jpg
+Copias e impresiones;print;Impresión de documentos enviados por WhatsApp;Servicio (se ve en el local). Precio por página B/N.;por página B/N;0.10;0;0;1;0;impresion-de-documentos-enviados-por-whatsapp.jpg
+Fotos;camera;Impresión de fotos;Tamaños varios. Precio 10x15 cm.;10x15 cm;0.30;0;0;1;0;impresion-de-fotos.jpg
+Detalles y Regalos;gift;Peluches;Varios tamaños. Precio mediano en caja.;mediano en caja;10.00;17;3;0;1;peluches.jpg
+Detalles y Regalos;gift;Cajas decorativas de madera;Con tapa. Precio c/u.;c/u;6.00;16;3;0;0;cajas-decorativas-de-madera.jpg
+Detalles y Regalos;gift;Cajas de regalo;Con ventana y tapa. Precio c/u.;c/u;5.00;7;3;0;1;cajas-de-regalo.jpg
+Detalles y Regalos;gift;Marcos de fotos;Varios diseños. Precio c/u.;c/u;5.00;16;3;0;0;marcos-de-fotos.jpg
+Detalles y Regalos;gift;Relojes despertadores;Con campana. Precio c/u.;c/u;7.00;16;3;0;1;relojes-despertadores.jpg
+Detalles y Regalos;gift;Relojes de mesa y de pared;Dorados y de colores. Precio c/u.;c/u;12.00;13;3;0;0;relojes-de-mesa-y-de-pared.jpg
+Detalles y Regalos;gift;Llaveros;Varios diseños. Precio c/u.;c/u;1.50;10;5;0;0;llaveros.jpg
+Detalles y Regalos;gift;Arreglos y detalles para cumpleaños;Armados por pedido. Precio desde.;desde;18.00;0;0;1;0;arreglos-y-detalles-para-cumpleanos.jpg
+Cosméticos;lips;Perfumes;Varias marcas. Precio desde.;desde;15.00;9;2;0;1;perfumes.jpg
+Cosméticos;lips;Body splash (colonias para cuerpo);Varias fragancias. Precio 250 ml.;250 ml;6.00;1;3;0;0;body-splash-colonias-para-cuerpo.jpg
+Cosméticos;lips;Cremas corporales;Varias fragancias. Precio c/u.;c/u;5.00;15;3;0;0;cremas-corporales.jpg
+Cosméticos;lips;Espejos de tocador;De mano y de mesa. Precio c/u.;c/u;6.00;20;3;0;0;espejos-de-tocador.jpg
+Cosméticos;lips;Accesorios para cabello;Pinzas y ganchos. Precio c/u.;c/u;1.00;13;5;0;0;accesorios-para-cabello.jpg
+Cosméticos;lips;Neceseres o estuches de cosméticos;Con diseño. Precio c/u.;c/u;5.00;11;3;0;0;neceseres-o-estuches-de-cosmeticos.jpg
+Cosméticos;lips;Labial mate;Varios tonos. Precio c/u.;c/u;3.50;22;5;0;0;labial-mate.jpg
+Artículos para fiestas;balloon;Pompones de flecos metálicos;Colores. Precio par.;par;2.50;13;5;0;1;pompones-de-flecos-metalicos.jpg
+Artículos para fiestas;balloon;Globos;Metalizados y de látex. Precio metalizado c/u (látex aprox. 0.15).;metalizado c/u (látex aprox. 0.15);1.50;3;5;0;0;globos.jpg
+Artículos para fiestas;balloon;Platos y vasos desechables de fiesta;Con diseño. Precio paquete x10.;paquete x10;2.00;12;5;0;0;platos-y-vasos-desechables-de-fiesta.jpg
+Artículos para fiestas;balloon;Tiaras y coronas de cumpleaños;Varios diseños. Precio c/u.;c/u;3.00;27;5;0;0;tiaras-y-coronas-de-cumpleanos.jpg
+Artículos para fiestas;balloon;Serpentinas y pitos de fiesta;Paquete (tipo Durita). Precio paquete.;paquete;1.00;18;5;0;0;serpentinas-y-pitos-de-fiesta.jpg
+Artículos para fiestas;balloon;Topper para pastel;Letreros de cumpleaños. Precio c/u.;c/u;2.50;26;5;0;0;topper-para-pastel.jpg
+Artículos para fiestas;balloon;Moldes de papel para cupcakes;Paquete. Precio paquete.;paquete;1.00;30;5;0;0;moldes-de-papel-para-cupcakes.jpg
+Artículos para fiestas;balloon;Bolsas para dulces con cinta;Paquete. Precio paquete.;paquete;1.50;14;5;0;0;bolsas-para-dulces-con-cinta.jpg
+Bazar;basket;Cintas de satín y listón;Varios colores y anchos. Precio por metro.;por metro;0.30;8;10;0;0;cintas-de-satin-y-liston.jpg
+Bazar;basket;Hojas de afeitar;Gillette y similares. Precio paquete.;paquete;1.50;27;5;0;0;hojas-de-afeitar.jpg
+Bazar;basket;Canastas plásticas;Varios colores. Precio c/u.;c/u;2.50;27;5;0;0;canastas-plasticas.jpg
+Bazar;basket;Organizadores plásticos de gavetas;3 gavetas. Precio c/u.;c/u;12.00;17;3;0;0;organizadores-plasticos-de-gavetas.jpg
+Bazar;basket;Lonchera térmica metálica;Varios pisos. Precio c/u.;c/u;15.00;9;2;0;0;lonchera-termica-metalica.jpg
+Bazar;basket;Botellas de agua y termos;Infantiles y de adultos. Precio c/u.;c/u;6.00;12;3;0;0;botellas-de-agua-y-termos.jpg
+Bazar;basket;Electrodomésticos pequeños;Exprimidor - cafetera - jarra. Precio desde.;desde;20.00;7;2;0;0;electrodomesticos-pequenos.jpg
+Bazar;basket;Multitomas;Con protección. Precio c/u.;c/u;6.00;15;3;0;0;multitomas.jpg
+Bazar;basket;Cables USB;Varios tipos. Precio c/u.;c/u;3.00;31;5;0;0;cables-usb.jpg
+Bazar;basket;Paraguas;Varios colores. Precio c/u.;c/u;6.00;8;3;0;0;paraguas.jpg
+Bazar;basket;Figuras navideñas de madera;Decoración de Navidad. Precio c/u.;c/u;8.00;16;3;0;0;figuras-navidenas-de-madera.jpg
+Bazar;basket;Guirnaldas navideñas;Blanca con escarcha. Precio c/u.;c/u;2.50;10;5;0;0;guirnaldas-navidenas.jpg
+Juguetes y juegos;toy;Juego de mesa ¡Basta!;Caja. Precio c/u.;c/u;25.00;15;2;0;1;juego-de-mesa-basta.jpg
+Juguetes y juegos;toy;Juego de mesa Scrabble;Original. Precio c/u.;c/u;30.00;9;2;0;0;juego-de-mesa-scrabble.jpg
+Juguetes y juegos;toy;Dominó en caja metálica;. Precio c/u.;c/u;6.00;14;3;0;0;domino-en-caja-metalica.jpg
+Juguetes y juegos;toy;Juego 3 en 1 (damas - ajedrez - tic-tac-toe);. Precio c/u.;c/u;8.00;17;3;0;0;juego-3-en-1-damas-ajedrez-tic-tac-toe.jpg
+Juguetes y juegos;toy;Juguetes de plástico;Varios tipos. Precio desde.;desde;5.00;15;3;0;0;juguetes-de-plastico.jpg
+Juguetes y juegos;toy;Pelotas;Varios tamaños. Precio c/u.;c/u;2.00;22;5;0;0;pelotas.jpg
+Accesorios;ring;Billeteras y carteras;Varios diseños. Precio desde.;desde;8.00;19;3;0;0;billeteras-y-carteras.jpg
+Accesorios;ring;Bisutería (aretes - collares - pulseras);. Precio desde.;desde;3.00;19;5;0;0;bisuteria-aretes-collares-pulseras.jpg
+Accesorios;ring;Relojes de pulsera;. Precio desde.;desde;10.00;14;3;0;0;relojes-de-pulsera.jpg
+Libros infantiles;book;Cuentos y libros didácticos;Infantiles. Precio c/u.;c/u;3.00;27;5;0;0;cuentos-y-libros-didacticos.jpg

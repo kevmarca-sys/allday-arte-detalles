@@ -1,0 +1,12 @@
+# Productos cuya imagen se actualiza al arrancar aunque ya tengan una (si el archivo cambió).
+# Ojo: si luego se sube otra foto desde el panel para estos productos, esta lista la volverá a reemplazar.
+cajas-de-regalo.jpg
+peluches.jpg
+relojes-despertadores.jpg
+arreglos-y-detalles-para-cumpleanos.jpg
+cajas-decorativas-de-madera.jpg
+llaveros.jpg
+marcos-de-fotos.jpg
+relojes-de-mesa-y-de-pared.jpg
+impresion-de-fotos.jpg
+impresion-blanco-y-negro.jpg

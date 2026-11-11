@@ -1,0 +1,39 @@
+# Configuracion de la API de ALL DAY. Los secretos se leen de variables de entorno
+# (en AWS se cargan desde Secrets Manager). Nunca escriba contrasenas en este archivo.
+server:
+  port: ${PORT:8080}
+spring:
+  application:
+    name: allday-api
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5433/allday}
+    username: ${DB_USER:postgres}
+    password: ${DB_PASSWORD:}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate.jdbc.time_zone: America/Guayaquil
+  servlet:
+    multipart:
+      max-file-size: 2MB
+      max-request-size: 2MB
+  jackson:
+    time-zone: America/Guayaquil
+app:
+  jwt:
+    secret: ${JWT_SECRET:}
+    expiration-hours: 8
+  cors:
+    origins: ${CORS_ORIGINS:http://localhost:5173,http://localhost:4173}
+  admin:
+    email: ${ADMIN_EMAIL:admin@allday.ec}
+    password: ${ADMIN_PASSWORD:}
+  # true = carga productos y pedidos ficticios para practicar (por defecto NO)
+  seed-demo: ${SEED_DEMO:false}
+  cargar-catalogo: ${CARGAR_CATALOGO:true}
+  whatsapp-negocio: ${WHATSAPP_NEGOCIO:593984115728}
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
